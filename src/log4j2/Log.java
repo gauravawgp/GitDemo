@@ -5,15 +5,25 @@ import org.apache.logging.log4j.Logger;
 import org.testng.annotations.Test;
 
 public class Log {
-	@Test
-	public void github()
+	
+	final void github()
+	{
+		System.out.println("git commiut");
+	}
+	final void gith11ub()
 	{
 		System.out.println("git commiut");
 	}
 	public void github2()
+	
 	{
 		System.out.println("git commiut");
 	}
+	public void github()
+	{
+		System.out.println("git commiut");
+	}
+	
 	
 	public static Logger Log=LogManager.getLogger(Log.class.getName());
 	public static void main(String[] args) {
