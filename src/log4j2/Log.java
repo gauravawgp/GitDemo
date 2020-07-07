@@ -8,6 +8,7 @@ public class Log {
 	final void github()
 	{
 		System.out.println("develop");
+		System.out.println("develop2");
 	}
 
 	
