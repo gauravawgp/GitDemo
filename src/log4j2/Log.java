@@ -2,32 +2,14 @@ package log4j2;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.testng.annotations.Test;
 
 public class Log {
 	
 	final void github()
 	{
-		System.out.println("git commiut");
+		System.out.println("develop");
 	}
-	final void gith11ub()
-	{
-		System.out.println("git commiut");
-	}
-	public void github2()
-	
-	{
-		System.out.println("git commiut");
-	}
-	public void github()
-	{
-		System.out.println("git commiut");
-	}
-	public void github99()
-	{
-		System.out.println("git 99");
-		System.out.println("push back to git Demo");
-	}
+
 	
 	
 	public static Logger Log=LogManager.getLogger(Log.class.getName());
