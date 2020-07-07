@@ -5,7 +5,24 @@ import org.apache.logging.log4j.Logger;
 
 public class Log {
 	
+<<<<<<< HEAD
 	////////////////////////////////////////////////////////////////////
+=======
+	final void github()
+	{
+		System.out.println("develop");
+		System.out.println("develop2");
+		System.out.println("develop3");
+	}
+	final void github()
+	{
+		System.out.println("develop");
+		System.out.println("develop2");
+		System.out.println("develop3");
+	}
+
+	
+>>>>>>> develop
 	
 	public static Logger Log=LogManager.getLogger(Log.class.getName());
 	public static void main(String[] args) {
@@ -15,6 +32,11 @@ public class Log {
 		Log.error("this is an error");
 		Log.fatal("this is fatal");
 		Log.trace("this is trace");
+		/////////////////////
+		Log.error("this is an error");
+		Log.fatal("this is fatal");
+		Log.trace("this is trace");
+		gaurav
 	}
 
 }
