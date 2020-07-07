@@ -1,0 +1,9 @@
+20:25:24.981 [main] DEBUG log4j2.Log - Im Debugging
+20:25:24.984 [main] INFO  log4j2.Log - info
+20:25:24.985 [main] ERROR log4j2.Log - this is an error
+20:25:24.985 [main] FATAL log4j2.Log - this is fatal
+20:26:28.423 [main] DEBUG log4j2.Log - Im Debugging
+20:26:28.429 [main] INFO  log4j2.Log - info
+20:26:28.430 [main] ERROR log4j2.Log - this is an error
+20:26:28.430 [main] FATAL log4j2.Log - this is fatal
+20:26:28.431 [main] TRACE log4j2.Log - this is trace
