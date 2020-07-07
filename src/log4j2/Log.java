@@ -28,6 +28,10 @@ public class Log {
 		Log.error("this is an error");
 		Log.fatal("this is fatal");
 		Log.trace("this is trace");
+		/////////////////////
+		Log.error("this is an error");
+		Log.fatal("this is fatal");
+		Log.trace("this is trace");
 	}
 
 }
