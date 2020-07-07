@@ -9,6 +9,7 @@ public class Log {
 	{
 		System.out.println("develop");
 		System.out.println("develop2");
+		System.out.println("develop3");
 	}
 
 	
