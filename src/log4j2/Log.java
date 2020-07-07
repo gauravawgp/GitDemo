@@ -10,6 +10,10 @@ public class Log {
 	{
 		System.out.println("git commiut");
 	}
+	public void github2()
+	{
+		System.out.println("git commiut");
+	}
 	
 	public static Logger Log=LogManager.getLogger(Log.class.getName());
 	public static void main(String[] args) {
