@@ -23,6 +23,11 @@ public class Log {
 	{
 		System.out.println("git commiut");
 	}
+	public void github99()
+	{
+		System.out.println("git 99");
+		System.out.println("push back to git Demo");
+	}
 	
 	
 	public static Logger Log=LogManager.getLogger(Log.class.getName());
